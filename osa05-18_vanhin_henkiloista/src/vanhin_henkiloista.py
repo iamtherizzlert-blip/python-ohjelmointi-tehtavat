@@ -1,8 +1,8 @@
-def vanhin(personnel:list) -> str:
-  oldest = personnel[0]
+def vanhin(personnel:list) 
+   oldest = personal[0]
 
-  for pers in personnel:
-    if pers[1] < oldest[1]:
-      oldest = pers
-
-  return oldest[0]
+for per in personal:
+  if pers [1] < oldest[1]:
+    oldest = per
+    
+return oldest[0]
